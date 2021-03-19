@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-03-18T12:51:22 EDT" name="Test" finished-at="2021-03-18T12:51:24 EDT" duration-ms="2616">
+  <suite started-at="2021-03-19T11:06:15 EDT" name="Default suite" finished-at="2021-03-19T11:06:20 EDT" duration-ms="4773">
     <groups>
     </groups>
-    <test started-at="2021-03-18T12:51:22 EDT" name="Launch Chrome" finished-at="2021-03-18T12:51:24 EDT" duration-ms="2616">
-      <class name="browsers.ChromeTest">
-        <test-method signature="launchChrome()[pri:0, instance:browsers.ChromeTest@68567e20]" started-at="2021-03-18T12:51:22 EDT" name="launchChrome" finished-at="2021-03-18T12:51:24 EDT" duration-ms="2570" status="PASS">
+    <test started-at="2021-03-19T11:06:15 EDT" name="Default test" finished-at="2021-03-19T11:06:20 EDT" duration-ms="4773">
+      <class name="browsers.FireFoxTest">
+        <test-method signature="launchFirefox()[pri:0, instance:browsers.FireFoxTest@394a2528]" started-at="2021-03-19T11:06:15 EDT" name="launchFirefox" finished-at="2021-03-19T11:06:20 EDT" duration-ms="4733" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- launchChrome -->
-      </class> <!-- browsers.ChromeTest -->
-    </test> <!-- Launch Chrome -->
-  </suite> <!-- Test -->
+        </test-method> <!-- launchFirefox -->
+      </class> <!-- browsers.FireFoxTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
