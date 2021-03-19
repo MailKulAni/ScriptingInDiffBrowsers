@@ -17,4 +17,10 @@
          <class name="browsers.FireFoxTest"/>
       </classes>
    </test>
+   
+         <test name="Launch Safari">
+      <classes>
+         <class name="browsers.SafariTest"/>
+      </classes>
+   </test>
 </suite>
