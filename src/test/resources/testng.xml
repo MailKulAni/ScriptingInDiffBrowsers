@@ -11,4 +11,10 @@
          <class name="browsers.ChromeTest"/>
       </classes>
    </test>
+   
+      <test name="Launch Firefox">
+      <classes>
+         <class name="browsers.FireFoxTest"/>
+      </classes>
+   </test>
 </suite>
